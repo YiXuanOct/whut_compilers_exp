@@ -1,0 +1,6 @@
+IFTK if
+LPARENT (
+IDENFR f
+EQL ==
+PLUS +
+RPARENT )
